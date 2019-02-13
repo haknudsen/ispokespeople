@@ -7,16 +7,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="description" content="Why Video from iSpokespeople?  Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing.">
-	<title>Why Video from iSpokespeople&reg;?</title>
-	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-L+XK540vkePe55E7PAfByfvW0XpsyYpsifTpgh/w8WvH6asVg/c2zqp0EfZfZTbF" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link href="../css/custom.css" rel="stylesheet" type="text/css">
-	<link href="../css/lightbox.css" rel="stylesheet" type="text/css">
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
-
+	<title>Why Video from iSpokespeople®?</title>
+	<?php include("../includes/head.php"); ?>
 </head>
 
 <body>
@@ -34,7 +26,7 @@
 			</ul>
 			<h2 class="text-primary"> Getting a <span class="thin white">Video</span> for your Website is<br><span class="white"><strong>Simple</strong> and <strong>Easy</strong></span>
 			</h2>
-			
+
 		</div>
 	</section>
 	<section class="container-fluid py-4">
@@ -113,9 +105,9 @@
 					</div>
 				</div>
 				<div class="col-md-4">
-						<h3 class="text-center">Choose the <span class="blue">Right</span> Video for You</h3>
-						<div class="sub-title">We have different kinds of videos to meet each company's needs</div>
-						<p>If you need to show people around your site we recommend a Custom Video Presentation. Do you want a spokesperson to greet visitors to your site? We can do that. We can do Whiteboard, Animation or Explainer videos to help you explain your product or service.</p>
+					<h3 class="text-center">Choose the <span class="blue">Right</span> Video for You</h3>
+					<div class="sub-title">We have different kinds of videos to meet each company's needs</div>
+					<p>If you need to show people around your site we recommend a Custom Video Presentation. Do you want a spokesperson to greet visitors to your site? We can do that. We can do Whiteboard, Animation or Explainer videos to help you explain your product or service.</p>
 				</div>
 			</div>
 		</div>
@@ -141,7 +133,7 @@
 				<p>The wise online marketer is ending up being more acquainted with video as an interaction tool. Videos count as content which content can be shared, talked about, tagged and ranked. It's no various than other piece of content.</p>
 				<p>If you have not considered the concept of including video content to your total internet marketing method then you're losing out on a world of chance that is now and will in the future control the web.</p>
 				<h3>Summary</h3>
-				<p>You may wonder, "Why Video?". It is the ease of use and ROI that may stand out for you.  Once you decide include video to your website, make sure you do your research. Get the best video content for your website. When it comes time for individuals to see your video, any of the web's significant video sharing websites will let you submit a video. Once you have uploaded your video you just take the code and embed your video content on websites like Digg.com, Stumbleupon, Twitter, and Facebook.</p>
+				<p>You may wonder, "Why Video?". It is the ease of use and ROI that may stand out for you. Once you decide include video to your website, make sure you do your research. Get the best video content for your website. When it comes time for individuals to see your video, any of the web's significant video sharing websites will let you submit a video. Once you have uploaded your video you just take the code and embed your video content on websites like Digg.com, Stumbleupon, Twitter, and Facebook.</p>
 			</div>
 		</div>
 	</section>
