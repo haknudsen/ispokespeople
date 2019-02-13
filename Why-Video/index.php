@@ -8,6 +8,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="description" content="Why Video from iSpokespeople?  Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing.">
 	<title>Why Video from iSpokespeople®?</title>
+	<link href="../css/video-js.css" rel="stylesheet" type="text/css">
 	<?php include("../includes/head.php"); ?>
 </head>
 
@@ -33,16 +34,14 @@
 		<h2 class="text-center">Professional <strong>Spokespeople</strong></h2>
 		<div class="container section-video">
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<h3 class="text-center">Use <span class="blue">Professional</span> Spokespeople</h3>
 					<div class="sub-title">Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Spokes model. No matter what you call it, We have the <span class="blue"><strong>BEST</strong></span> in the business.</div>
 					<p>We pride ourselves on our high <strong>QUALITY</strong> and successful spokespeople. Our videos are all shot and built here at our headquarters to maintain <span class="blue">quality</span> and precision. We do not outsource our filming to any other studios. <br> It is all filmed <span class="blue"><strong>HERE!</strong></span> </p>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-6">
 					<div class="player img-box type-1">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" scrolling="no" src="https://websitetalkingheads.com/ivideo?mute=false&autostart=true&video=Our_Spokespeople&color=rgb(38, 40, 41)"></iframe>
-						</div>
+						<?php $video="Virtual Spokespeople";$alt="Some of our Professional Virtual Spokespeople"; include("../includes/showInline.php"); ?>
 					</div>
 				</div>
 			</div>
