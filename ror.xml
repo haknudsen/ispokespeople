@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://ispokespeople.com/</title>
+  <link>http://ispokespeople.com/</link>
+
+<item>
+     <link>http://ispokespeople.com/</link>
+     <title>iSpokespeople&amp;reg;|Video Spokespeople</title>
+     <description>Searching for a new way to bring life to your website and attract more interest from those who visit it? Choose from our wide selection of Video Spokespeople.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ispokespeople.com/Video-Presentations/</link>
+     <title>iSpokespeople&amp;reg; Video Presentations</title>
+     <description>Who is iSpokespeople?  Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ispokespeople.com/about/</link>
+     <title>About iSpokespeople&amp;reg; Video</title>
+     <description>Who is iSpokespeople?  Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ispokespeople.com/spokespeople/</link>
+     <title>iSpokespeople Video Spokespeople</title>
+     <description>At iSpokespeople We pride ourselves on our high quality, successful spokespeople We have the BEST in the business.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ispokespeople.com/index.php</link>
+     <title>iSpokespeople&amp;reg;|Video Spokespeople</title>
+     <description>Searching for a new way to bring life to your website and attract more interest from those who visit it? Choose from our wide selection of Video Spokespeople.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

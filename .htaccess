@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+ErrorDocument 404 http://www.ispokespeople.com/404error.html
+ErrorDocument 500 http://www.ispokespeople.com/500.html
+ErrorDocument 403 http://www.ispokespeople.com/403.html
+ErrorDocument 401 http://www.ispokespeople.com/401.html
+# 1 Month for most static assets
+<filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
+Header set Cache-Control "max-age=2592000, public"
+</filesMatch>
