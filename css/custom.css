@@ -47,3 +47,8 @@ footer a { color: #EFEFEF }
 .modal-sm { max-width: 544px }
 .btn-custom { background-color: hsl(201, 100%, 72%) !important; background-repeat: repeat-x;  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4fbff", endColorstr="#70cdff");
 background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), to(#70cdff)); background-image: -moz-linear-gradient(top, #f4fbff, #70cdff); background-image: -ms-linear-gradient(top, #f4fbff, #70cdff); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4fbff), color-stop(100%, #70cdff)); background-image: -webkit-linear-gradient(top, #f4fbff, #70cdff); background-image: -o-linear-gradient(top, #f4fbff, #70cdff); background-image: linear-gradient(#f4fbff, #70cdff); border-color: #70cdff #70cdff hsl(201, 100%, 65.5%); color: #333 !important; text-shadow: 0 1px 1px rgba(255, 255, 255, 0.42); font-weight: 900; -webkit-font-smoothing: antialiased; }
+.poster .btn-play, .poster .btn-play-small, .poster .btn-play-md { position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); background-color: #0072FF; color: white; border: 2px solid white; cursor: pointer; border-radius: 50%; opacity: 0.8; }
+.poster .btn-play:hover, .poster .btn-play-small:hover, .poster .btn-play-md:hover  { background-color: #6BCEFF; border-color: #0072FF; opacity: 0.9 }
+.btn-play::before, .btn-play-small::before, .btn-play-md::before { position: absolute; top: 50%; left: 53%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); font-family: "Font Awesome 5 Pro"; font-weight: 600; content: "\f04b"; color: white; }
+.btn-play::before { font-size: 72px; }
+.poster .btn-play { height: 132px; width: 132px; }

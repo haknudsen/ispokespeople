@@ -78,7 +78,7 @@ if ( $result->num_rows > 0 ) {
 		echo PHP_EOL;
 		echo '<img src="https://www.websitetalkingheads.com/ivideo/videos/' . $name . '.jpg" class="img-fluid video" alt="' . $keyword[ $altNum ] . " Example" . '">';
 		echo PHP_EOL;
-		echo '<div class="btn-play-small"></div>';
+		echo '<div class="btn-play"></div>';
 		echo PHP_EOL;
 		echo '<div class="poster-title text-center">' . $name . '</div>';
 		echo PHP_EOL;
