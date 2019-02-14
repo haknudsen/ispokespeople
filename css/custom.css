@@ -52,3 +52,6 @@ background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), 
 .btn-play::before, .btn-play-small::before, .btn-play-md::before { position: absolute; top: 50%; left: 53%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); font-family: "Font Awesome 5 Pro"; font-weight: 600; content: "\f04b"; color: white; }
 .btn-play::before { font-size: 72px; }
 .poster .btn-play { height: 132px; width: 132px; }
+.description h2{font-size: 2vw}
+.description h3{font-size: 1.5vw}
+.description p{font-size: 1vw}

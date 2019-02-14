@@ -8,8 +8,8 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="description" content="Why Video from iSpokespeople?  Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing.">
 	<title>Why Video from iSpokespeople®?</title>
-	<link href="../css/video-js.css" rel="stylesheet" type="text/css">
 	<?php include("../includes/head.php"); ?>
+	<link href="../css/videos.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -33,13 +33,13 @@
 	<section class="container-fluid py-4">
 		<h2 class="text-center">Professional <strong>Spokespeople</strong></h2>
 		<div class="container section-video">
-			<div class="row">
-				<div class="col-md-6">
+			<div class="row align-items-center">
+				<div class="col-lg-6 description">
 					<h3 class="text-center">Use <span class="blue">Professional</span> Spokespeople</h3>
 					<div class="sub-title">Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Spokes model. No matter what you call it, We have the <span class="blue"><strong>BEST</strong></span> in the business.</div>
 					<p>We pride ourselves on our high <strong>QUALITY</strong> and successful spokespeople. Our videos are all shot and built here at our headquarters to maintain <span class="blue">quality</span> and precision. We do not outsource our filming to any other studios. <br> It is all filmed <span class="blue"><strong>HERE!</strong></span> </p>
 				</div>
-				<div class="col-md-6">
+				<div class="col-lg-6">
 					<div class="player img-box type-1">
 						<?php $video="Virtual Spokespeople";$alt="Some of our Professional Virtual Spokespeople"; include("../includes/showInline.php"); ?>
 					</div>
@@ -51,15 +51,13 @@
 	<section class="container-fluid py-4">
 		<h2 class="text-center">Web Video</h2>
 		<div class="container section-video">
-			<div class="row">
-				<div class="col-md-8">
+			<div class="row align-items-center">
+				<div class="col-lg-6">
 					<div class="player img-box type-1">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe alt="Web Video" class="embed-responsive-item" scrolling="no" src="https://websitetalkingheads.com/ivideo?mute=false&autostart=true&video=Reason to Believe&color=rgb(38, 40, 41)"></iframe>
-						</div>
+						<?php $video="Why Video";$alt="Why Video from iSpokespeople®"; include("../includes/showInline.php"); ?>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-lg-6 description">
 					<div class="center">
 						<h3>FOR EVERY <span class="highlight">WEBSITE</span></h3>
 						<div class="sub-title"><strong>Web Video</strong> is emerging as a powerful platform to deliver an impactful, interactive and highly targeted message</div>
@@ -73,19 +71,17 @@
 	<section class="container-fluid py-4">
 		<h2 class="text-center">Branding</h2>
 		<div class="container section-video">
-			<div class="row">
-				<div class="col-md-4">
+			<div class="row align-items-center">
+				<div class="col-lg-6 description">
 					<div class="center">
 						<h3 class="text-center"><span class="highlight">Brand</span> Your Company</h3>
 						<div class="sub-title">Branding is very important for any business, large or small. It is <strong>important</strong> to have an effective strategy so you can have a step up in your market. </div>
 						<p>Video can provide a review of your product or service and highlight the space in the market it occupies. Using <em>Web Video</em> can create trust and clearly show who your company is. A great video can show the characteristics that make up your brand and differentiate you from your competitors and provide a clear image of what your business does. </p>
 					</div>
 				</div>
-				<div class="col-md-8">
+				<div class="col-lg-6">
 					<div class="player img-box type-1">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe alt="Branding" class="embed-responsive-item" scrolling="no" src="https://websitetalkingheads.com/ivideo?mute=false&autostart=true&video=Puzzel_Logo_Reveal&color=rgb(38, 40, 41)"></iframe>
-						</div>
+						<?php $video="Social Media";$alt="Branding with Social Media"; include("../includes/showInline.php"); ?>
 					</div>
 				</div>
 			</div>
@@ -95,15 +91,13 @@
 	<section class="container-fluid py-4">
 		<h2 class="text-center">Right for You</h2>
 		<div class="container section-video">
-			<div class="row">
-				<div class="col-md-8">
+			<div class="row align-items-center">
+				<div class="col-lg-6">
 					<div class="player img-box type-1">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe alt="Online Video" class="embed-responsive-item" scrolling="no" src="https://websitetalkingheads.com/ivideo?mute=false&autostart=true&video=Collaboration vs Survey&color=rgb(38, 40, 41)"></iframe>
-						</div>
+						<?php $video="Puzzel Logo Reveal";$alt="Puzzel Logo Reveal Example"; include("../includes/showInline.php"); ?>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-lg-6 description">
 					<h3 class="text-center">Choose the <span class="blue">Right</span> Video for You</h3>
 					<div class="sub-title">We have different kinds of videos to meet each company's needs</div>
 					<p>If you need to show people around your site we recommend a Custom Video Presentation. Do you want a spokesperson to greet visitors to your site? We can do that. We can do Whiteboard, Animation or Explainer videos to help you explain your product or service.</p>

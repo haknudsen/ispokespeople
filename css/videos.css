@@ -1,0 +1,7 @@
+.video-js{font-size:16px;color:#E5F0FF}
+.vjs-big-play-button{font-size:4em;line-height:2em;height:2em;width:2em;border:.06666em solid #E5F0FF;border-radius:.5em;left:50%!important;top:50%!important;margin-left:-1em;margin-top:-1em}
+.video-js .vjs-control-bar,.video-js .vjs-big-play-button,.video-js .vjs-menu-button .vjs-menu-content{background-color:#00397F;background-color:rgba(0,57,127,0.7)}
+.video-js .vjs-slider{background-color:#2889ff;background-color:rgba(40,137,255,0.5)}
+.video-js .vjs-volume-level,.video-js .vjs-play-progress,.video-js .vjs-slider-bar{background:#E5F0FF}
+.video-js .vjs-load-progress{background:#a8cfff;background:rgba(40,137,255,0.5)}
+.video-js .vjs-load-progress div{background:#fff;background:rgba(40,137,255,0.75)}
