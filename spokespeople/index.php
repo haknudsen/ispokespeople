@@ -10,7 +10,7 @@
 	<meta name="keywords" content="Spokespeople, Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokesmodel, Walk On Actor,Virtual Actor, Person on Website, Online Spokesperson.">
 	<?php include("../includes/head.php"); ?>
 </head>
-<?php include("../includes/nav.php"); ?>
+<?php include("../includes/nav-spokesperson.php"); ?>
 <section class="jumbotron text-center">
 	<div class="text-heading">
 		<h1><span class="thin">OUR</span> <strong>SPOKESPEOPLE</strong></h1>
