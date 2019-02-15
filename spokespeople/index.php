@@ -11,14 +11,13 @@
 	<?php include("../includes/head.php"); ?>
 </head>
 <?php include("../includes/nav-spokesperson.php"); ?>
-<section class="jumbotron text-center">
-	<div class="text-heading">
-		<h1><span class="thin">OUR</span> <strong>SPOKESPEOPLE</strong></h1>
-		<h2>We have a wide range of Video <span class="text-info">Spokespeople</span> to choose from</h2>
-		<div class="section-header">
-			<h2 class="sub-heading2">No matter what term you wish to use –iSpokesperson, Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokesmodel, Walk On Actor, Virtual Actor, Person on Website, Online Spokesperson - We have the BEST in the business.</h2>
-			<br/>
-		</div>
+<section class="alert-info mb-3 text-center">
+	<h1><span class="thin">OUR</span> <strong>SPOKESPEOPLE</strong></h1>
+	<h2>We have a wide range of Video <span class="text-info">Spokespeople</span> to choose from</h2>
+	<div class="section-header">
+		<h2 class="sub-heading2">No matter what term you wish to use –iSpokesperson, Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokesmodel, Walk On Actor, Virtual Actor, Person on Website, Online Spokesperson - We have the BEST in the business.</h2>
+		<br/>
+	</div>
 
 	</div>
 </section>
