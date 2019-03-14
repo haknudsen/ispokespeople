@@ -10,13 +10,11 @@
 <script src="https://vjs.zencdn.net/7.2.4/video.js"></script>
 <script src="../js/iVideo-spokesperson.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134533243-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3598588-6"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-134533243-1');
-	gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
+  gtag('config', 'UA-3598588-6');
 </script>
-

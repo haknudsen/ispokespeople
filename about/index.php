@@ -14,34 +14,71 @@
 <body>
 	<?php include("../includes/nav.php"); ?>
 	<section class="jumbotron-fluid">
-		<div class="container text-light">
+		<div class="container text-dark">
 			<h1 class="text-center">About <em>i</em>Spokespeople<sup>&reg;</sup> <strong>Video</strong></h1>
-			<div class="card-group">
-				<div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+			<div class="card-columns">
+				<div class="card text-white bg-info">
 					<h3 class="card-header">Started in 2008</h3>
 					<div class="card-body">
 						<h5 class="card-title">Over a Decade of Experience</h5>
 						<p class="card-text">Founded over a decade ago we have been passionately assisting companies and individuals enhance their Internet marketing. We comprehend business of Internet Video and Internet Marketing is our specialized. We pride ourselves on our <span class="thin">Spokespeople</span> Video Specialists.</p>
 					</div>
 				</div>
-				<div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+				<div class="card text-white bg-info">
+					<h3 class="card-header">Experts</h3>
+					<div class="card-body">
+						<h5 class="card-title">We are Professionals</h5>
+						<p class="card-text">At iSpokespeople, we only hire well-trained experts. Our Team understands the industry and how video marketing works. Members of our Team have the following skills:</p>
+						<ul class="list-group list-group-flush text-white bg-info">
+							<li class="list-group-item bg-info text-white">Acting</li>
+							<li class="list-group-item bg-info text-white">Videography</li>
+							<li class="list-group-item bg-info text-white">Modeling</li>
+							<li class="list-group-item bg-info text-white">Broadcast Journalism</li>
+							<li class="list-group-item bg-info text-white">TV Presentation</li>
+							<li class="list-group-item bg-info text-white">Video Compositing</li>
+							<li class="list-group-item bg-info text-white">Script Writing</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card text-white bg-info">
+					<h3 class="card-header">Team</h3>
+					<div class="card-body">
+						<h5 class="card-title">We Synergize Our Skills</h5>
+						<p class="card-text"> We synergize our individual experience to provide the best spokesperson services. We’re excited about each new project whether big or small. We can’t wait to talk with you about your spokesperson video needs. </p>
+					</div>
+				</div>
+				<div class="card text-white bg-info">
 					<h3 class="card-header">Collaboration</h3>
 					<div class="card-body">
 						<h5 class="card-title">We Work With You</h5>
 						<p class="card-text">Your business provides an <em>solution</em> for your customers, however in some cases that solution requires some describing. That is where we come in. Our Creative Director will collaborate with you to create your script. Then our team of video Professionals use thier skills to put your video together.</p>
 					</div>
 				</div>
-				<div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+				<div class="card text-white bg-info">
 					<h3 class="card-header">Individualized</h3>
 					<div class="card-body">
 						<h5 class="card-title">Online Video</h5>
 						<p class="card-text">Our individualized method is exactly what sets us apart from the competitors. You will get your very own Project Manager and all technical assistance is done internal by the individuals that create our items. A Video Spokesperson provides your site the included edge of modern-day strategies that capture your website visitors' eyes and ears.</p>
 					</div>
 				</div>
-				<div class="card text-white bg-info mb-3" style="max-width: 18rem;">
-					<h3 class="card-header">Professional</h3>
+				<div class="card text-white bg-info">
+					<h3 class="card-header">Spokesperson Service</h3>
 					<div class="card-body">
-						<h5 class="card-title">Pro Team</h5>
+						<h5 class="card-title">Our Process</h5>
+						<p class="card-text"> iSpokespeople is a Website Spokesperson service. We have a passion for assisting companies to gain the benefits of video marketing. We have been in the industry for over ten years.</p>
+						<p class="card-text">Our creative experts will:</p>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item bg-info text-white">Answer Your Questions</li>
+							<li class="list-group-item bg-info text-white">Collaborate WITH You</li>
+							<li class="list-group-item bg-info text-white">Create Your Video</li>
+							<li class="list-group-item bg-info text-white">Deliver Your New Video to You</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card text-white bg-info">
+					<h3 class="card-header">The Right Video</h3>
+					<div class="card-body">
+						<h5 class="card-title">Professional Video Production</h5>
 						<p class="card-text">Picture having staff members who are better-trained, leads who are ready to purchase, and consumers that understand your product and servicess. Isn't really that exactly what you actually desire? Call <a class="white" href="tel://801-748-2281" title="Give us a call.">801-748-2281</a>. get to understand us and see why our clients consider us to be a lot more than simply a video business.</p>
 					</div>
 				</div>
