@@ -33,7 +33,7 @@
 					</div>
 				</div>
 				<div class="card card-outline-info">
-					<div class="card-block"> <img class="card-img-top" src="https://websitetalkingheads.com/images/GreenScreenVideo.gif" alt="Green Screen Video"  title="Green Screen Video"/>
+					<div class="card-block"> <img class="card-img-top" src="https://websitetalkingheads.com/images/GreenScreenVideo.gif" alt="Green Screen Video" title="Green Screen Video"/>
 						<h3 class="card-title">#3 Green Screen File</h3>
 						<article> Attention Marketing and Ad agencies, professional editors and compositiors: Save time and HUNDREDS of dollars, We provide you with a hi-res file to use in your Internet video project.</article>
 					</div>
@@ -57,51 +57,51 @@
 			<blockquote>A iSpokesperson will greet your visitors to help them feel more comfortable at your website. Your iSpokesperson can build confidence that your business is solid by giving your business a professional face and clarify the important parts of your website and help the visitor to understand how your products and services will benefit them.</blockquote>
 		</div>
 	</section>
-	<section class="container card-group my-3" id="awards">
-		<div class="card"> <a href="#" data-toggle="tooltip" title="#1 in Video Production"> <img class="card-img-top seal d-block" src="https://websitetalkingheads.com/images/video-production-seal.png"  alt="Best in Video Production"  title="Best in Video Production" /> </a>
-			<div class="card-block award">
-				<h2 class="card-title">#1 in Video Production</h2>
-				<h5 class="card-subtitle">Best Production Quality</h5>
-				<article>
-					<p class="card-text">When for the right video production company, you need somebody who can reliably get a handle on your message and convey your message. Each and every part of your video from Talking Heads&reg; will be centered around your message.</p>
-					<p class="card-text">Our videos are completely filmed and composited right here at our studio to maintain our high quality standards and accuracy. We do not outsource our tasks to other workshops. Every little thing is totally filmed RIGHT HERE!</p>
-				</article>
+	<section class="alert alert-info">
+		<div class="card-group my-3" id="awards">
+			<div class="card"> <a href="#" data-toggle="tooltip" title="#1 in Video Production"> <img class="card-img-top seal d-block" src="https://websitetalkingheads.com/images/video-production-seal.png"  alt="Best in Video Production"  title="Best in Video Production" /> </a>
+				<div class="card-block award">
+					<h2 class="card-title">#1 in Video Production</h2>
+					<h5 class="card-subtitle">Best Production Quality</h5>
+					<article>
+						<p class="card-text">When for the right video production company, you need somebody who can reliably get a handle on your message and convey your message. Each and every part of your video from Talking Heads&reg; will be centered around your message.</p>
+						<p class="card-text">Our videos are completely filmed and composited right here at our studio to maintain our high quality standards and accuracy. We do not outsource our tasks to other workshops. Every little thing is totally filmed RIGHT HERE!</p>
+					</article>
+				</div>
+				<!-- card-block -->
+				<div class="card-footer text-center">
+					<a class="card-link" href="about/">About Us</a>
+				</div>
 			</div>
-			<!-- card-block -->
-			<div class="card-footer text-center">
-				<a class="card-link" href="about/">About Us</a>
+			<div class="card">
+				<div class="mb-5 mt-5">
+					<a href="#" data-toggle="tooltip" title="Winner Best Web Design Agencies - Video Production"><img class="card-img-top seal d-block mb-1" title="Winner in Video Production"   alt="Winner in Video Production" src="https://www.websitetalkingheads.com/images/video-production-winner.png"></a>
+				</div>
+				<div class="card-block award">
+					<h2 class="card-title">Best<br>Video Production</h2>
+					<h5 class="card-subtitle">Engaging Video</h5>
+					<article>
+						<p class="card-text">Our Award Winning Video Presentations are all filmed and put together at our studio. We don't use freelancers or temps.</p>
+						<p class="card-text">We create video presentations that enhance your essential vision without breaking your bank. Instead of spending thousands or tens of thousands on a "viral video", we recommend making videos that work for all of you day, consistently passing on a solid message to potential customers.</p>
+					</article>
+				</div>
+				<!-- card-block -->
+				<div class="card-footer text-center">
+					<a href="Video-Presentations/" title="Video Presentations" class="card-link">Video Presentations</a> </div>
 			</div>
-		</div>
-		<div class="card">
-			<div class="mb-5 mt-5">
-				<a href="#" data-toggle="tooltip" title="Winner Best Web Design Agencies - Video Production"><img class="card-img-top seal d-block mb-1" title="Winner in Video Production"   alt="Winner in Video Production" src="https://www.websitetalkingheads.com/images/video-production-winner.png"></a>
+			<div class="card"> <a href="http://www.topseos.com/rankings-of-best-virtual-spokesperson-companies" data-toggle="tooltip" title="#1 in Video Spokesperson"><img class="card-img-top seal d-block" src="https://websitetalkingheads.com/images/video-spokesperson-seal.png"  title="Best in Video Spokesperson"  alt="Best in Video Spokesperson"  /></a>
+				<div class="card-block award">
+					<h2 class="card-title">#1 Video Spokespeople</h2>
+					<h5 class="card-subtitle">Best Quality Spokespeople</h5>
+					<article>
+						<p class="card-text">We have a wide variety of Spokespeople that encompass different styles of articulating your message. This guarantees you will be able to discover a Spokesperson who can best deliver your message and vision to your target audience.</p>
+						<p>Our Website Spokespeople can easily present information, news updates, notifications or even show website visitors around your web site. Their task might consist of keeping your website visitor's interest as well as entice them to purchase your product or service.</p>
+					</article>
+				</div>
+				<div class="card-footer text-center">
+					<a class="card-link" href="spokespeople/">Our Spokespeople</a>
+				</div>
 			</div>
-			<div class="card-block award">
-				<h2 class="card-title">Best<br>Video Production</h2>
-				<h5 class="card-subtitle">Engaging Video</h5>
-				<article>
-					<p class="card-text">Our Award Winning Video Presentations are all filmed and put together at our studio. We don't use freelancers or temps.</p>
-					<p class="card-text">We create video presentations that enhance your essential vision without breaking your bank. Instead of spending thousands or tens of thousands on a "viral video", we recommend making videos that work for all of you day, consistently passing on a solid message to potential customers.</p>
-				</article>
-			</div>
-			<!-- card-block -->
-			<div class="card-footer text-center">
-				<a href="Video-Presentations/" title="Video Presentations" class="card-link">Video Presentations</a> </div>
-		</div>
-		</div>
-	  <div class="card"> <a href="http://www.topseos.com/rankings-of-best-virtual-spokesperson-companies" data-toggle="tooltip" title="#1 in Video Spokesperson"><img class="card-img-top seal d-block" src="https://websitetalkingheads.com/images/video-spokesperson-seal.png"  title="Best in Video Spokesperson"  alt="Best in Video Spokesperson"  /></a>
-			<div class="card-block award">
-				<h2 class="card-title">#1 Video Spokespeople</h2>
-				<h5 class="card-subtitle">Best Quality Spokespeople</h5>
-				<article>
-					<p class="card-text">We have a wide variety of Spokespeople that encompass different styles of articulating your message. This guarantees you will be able to discover a Spokesperson who can best deliver your message and vision to your target audience.</p>
-					<p>Our Website Spokespeople can easily present information, news updates, notifications or even show website visitors around your web site. Their task might consist of keeping your website visitor's interest as well as entice them to purchase your product or service.</p>
-				</article>
-			</div>
-			<!-- card-block -->
-			<div class="card-footer text-center">
-				<a class="card-link" href="spokespeople/">Our Spokespeople</a>
-		  </div>
 		</div>
 	</section>
 	<section class="container">
