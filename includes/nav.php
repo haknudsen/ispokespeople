@@ -25,7 +25,7 @@
 		<div class="modal-content">
 
 			<!-- Modal Header -->
-			<div class="modal-header bg-dark justify-content-center">
+			<div class="modal-header bg-primary justify-content-center">
 				<h4 class="modal-title  justify-content-center text-light">Contact Us</h4>
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
 			</div>
@@ -33,16 +33,17 @@
 			<!-- Modal body -->
 			<div class="modal-body">
 				<?php
+                $form= "forms/contact.php";
 				if ( $_SERVER[ 'REQUEST_URI' ] != "/" ) {
-					include( "../contact/contact.php" );
+					include( "../" . $form );
 				} else {
-					include( "contact/contact.php" );
+					include( $form );
 				}
 				?>
 			</div>
 
 			<!-- Modal footer -->
-			<div class="modal-footer bg-dark">
+			<div class="modal-footer bg-primary">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
 			</div>
 

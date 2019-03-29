@@ -25,13 +25,17 @@
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="text-center"><i class="far fa-phone"></i>
-				<span><a class="white" href="tel://801-748-2281" title="Give us a call." >801-748-2281</a></span>
+			<div class="text-center"><a class="white" href="tel://801-748-2281" title="Give us a call." ><i class="far fa-phone"></i>
+				<span>801-748-2281</a></span>
 			</div>
-			<div class="text-center"><i class="far fa-envelope"></i>
-				<a href="mailto:info@ispokespeople.com">info@ispokespeople.com</a>
+			<div class="text-center">
+                <a href="mailto:info@ispokespeople.com"><i class="far fa-envelope"></i>
+				info@ispokespeople.com</a>
+			</div>
+			<div class="text-center"><a href="/sitemap.php"><i class="fas fa-sitemap"></i>
+				Sitemap</a>
 			</div>
 		</div>
 	</div>
-	<div class="text-center"><i class="cw fal fa-copyright"></i>iSpokespeople <span id="year">2008-<?php echo date("Y"); ?></span> All rights reserved.</div>
+	<div class="text-center pt-3"><i class="cw fal fa-copyright"></i>iSpokespeople <span id="year">2008-<?php echo date("Y"); ?></span> All rights reserved.</div>
 </footer>
