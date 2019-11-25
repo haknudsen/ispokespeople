@@ -17,7 +17,7 @@ footer a { color: #EFEFEF }
 .fifty { max-width: 50%; padding-right: 1rem }
 .content p { line-height: 1.1 }
 .thin { font-weight: 300 }
-.card-header { text-align: center }
+.card-header { text-align: center;font-weight: 600;font-size: 24px }
 .video-name { text-align: center; margin-bottom: 1rem; font-weight: 600; font-size: 2rem }
 .products { margin: 0 -60px }
 .example-3 { margin: 0; -webkit-box-flex: 0; -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25%; }
@@ -49,10 +49,11 @@ footer a { color: #EFEFEF }
 background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), to(#70cdff)); background-image: -moz-linear-gradient(top, #f4fbff, #70cdff); background-image: -ms-linear-gradient(top, #f4fbff, #70cdff); background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4fbff), color-stop(100%, #70cdff)); background-image: -webkit-linear-gradient(top, #f4fbff, #70cdff); background-image: -o-linear-gradient(top, #f4fbff, #70cdff); background-image: linear-gradient(#f4fbff, #70cdff); border-color: #70cdff #70cdff hsl(201, 100%, 65.5%); color: #333; text-shadow: 0 1px 1px rgba(255, 255, 255, 0.42); font-weight: 900; -webkit-font-smoothing: antialiased; }
 .btn-custom:hover{border-color: #f4fbff #f4fbff #f4fbff; color: #2C68B3; text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.8);}
 .poster .btn-play, .poster .btn-play-small, .poster .btn-play-md { position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); background-color: #0072FF; color: white; border: 2px solid white; cursor: pointer; border-radius: 50%; opacity: 0.8; }
+.poster.poster-card .btn-play { position: absolute; top: 30%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); background-color: #0072FF; color: white; border: 2px solid white; cursor: pointer; border-radius: 50%; opacity: 0.8; }
 .poster .btn-play:hover, .poster .btn-play-small:hover, .poster .btn-play-md:hover  { background-color: #6BCEFF; border-color: #0072FF; opacity: 0.9 }
 .btn-play::before, .btn-play-small::before, .btn-play-md::before { position: absolute; top: 50%; left: 53%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); font-family: "Font Awesome 5 Pro"; font-weight: 600; content: "\f04b"; color: white; }
-.btn-play::before { font-size: 72px; }
-.poster .btn-play { height: 132px; width: 132px; }
+.btn-play::before { font-size: 48px; }
+.poster .btn-play { height: 72px; width: 72px; }
 .description h2{font-size: 2vw}
 .description h3{font-size: 1.5vw}
 .description p{font-size: 1vw}

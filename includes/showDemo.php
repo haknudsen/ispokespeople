@@ -105,12 +105,4 @@ if ( $result->num_rows > 0 ) {
 echo PHP_EOL;
 echo '</div>';
 echo PHP_EOL;
-echo'<div itemscope itemtype="http://schema.org/VideoObject">
-    <h2 itemprop="name">Quote Zoom</h2><br>
-    <link itemprop="contentUrl" href="https://www.websitetalkingheads.com/ivideo/videos/Quote Zoom.mp4">
-    <time itemprop="duration" content="PT00H01M53S">00:01:53</time><br>
-    <img itemprop="thumbnailUrl" src="https://www.websitetalkingheads.com/ivideo/videos/Quote Zoom.jpg" alt="Quote Zoom"><br>
-    <span itemprop="uploadDate">2019-01-14</span><br>
-    <span itemprop="description">Our individualized method is exactly what sets us apart from the competitors. You will get your very own Project Manager and all technical assistance is done internal by the individuals that create our items. A Video Spokesperson provides your site the included edge of modern-day strategies that capture your website visitors eyes and ears.</span>
-</div>';
 ?>
