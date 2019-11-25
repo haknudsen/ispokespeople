@@ -37,7 +37,6 @@ footer a { color: #EFEFEF }
 .g-recaptcha div { margin: 0 auto }
 .g-recaptcha { margin-bottom: 1rem }
 .cursor { cursor: pointer }
-.socials { max-width: 250px; margin: 1rem auto }
 .white { color: white }
 .twitter { height: 20px }
 #twitter-widget-0 { margin-bottom: 2px; }
@@ -59,3 +58,6 @@ background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), 
 .description p{font-size: 1vw}
 #awards img{max-width: 500px}
 #__vtigerWebForm textarea{width: 100%}
+/*Social Icons*/
+.social-icons {height: 4rem;align-items: center;display: flex;justify-content: center;}
+.social-icons i{font-size: 3rem;margin: .5rem;color: #17a2b8}

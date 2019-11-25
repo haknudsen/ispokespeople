@@ -11,7 +11,7 @@
 	<?php include("../includes/head.php"); ?>
 </head>
 <?php include("../includes/nav-spokesperson.php"); ?>
-<section class="alert-info mb-3">
+<section class="alert-info mb-3 text-center">
 	<h1><span class="thin">OUR</span> <strong>SPOKESPEOPLE</strong></h1>
 	<h2>We have a wide range of Video <span class="text-info">Spokespeople</span> to choose from</h2>
 	<div class="section-header">
@@ -47,7 +47,7 @@
 		</div>
 	</div>
 </section>
-<section class="container-fluid bg-light p-2">
+<section class="alert alert-info">
 	<div class="container">
 		<h2 class="text-center"><em>iSpokespeople</em></h2>
 		<div class="float-left fifty">
