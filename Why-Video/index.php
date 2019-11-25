@@ -52,16 +52,16 @@
 		<h2 class="text-center">Web Video</h2>
 		<div class="container section-video">
 			<div class="row align-items-center">
-				<div class="col-lg-6">
-					<div class="player img-box type-1">
-						<?php $video="Why Video";$alt="Why Video from iSpokespeople®"; include("../includes/showInline.php"); ?>
-					</div>
-				</div>
 				<div class="col-lg-6 description">
 					<div class="center">
 						<h3>FOR EVERY <span class="highlight">WEBSITE</span></h3>
 						<div class="sub-title"><strong>Web Video</strong> is emerging as a powerful platform to deliver an impactful, interactive and highly targeted message</div>
 						<p>Getting your website Ranked with your keywords in the long term is not just about building a large number of links. It’s also about creating high-quality content that will attract links naturally over time. One type of content that is still underutilized is online video. When used correctly, video is extremely powerful content form and will make a significant contribution to your overall SEO strategy.</p>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="player img-box type-1">
+						<?php $video="Why Video";$alt="Why Video from iSpokespeople®"; include("../includes/showInline.php"); ?>
 					</div>
 				</div>
 			</div>
@@ -92,15 +92,15 @@
 		<h2 class="text-center">Right for You</h2>
 		<div class="container section-video">
 			<div class="row align-items-center">
-				<div class="col-lg-6">
-					<div class="player img-box type-1">
-						<?php $video="Puzzel Logo Reveal";$alt="Puzzel Logo Reveal Example"; include("../includes/showInline.php"); ?>
-					</div>
-				</div>
 				<div class="col-lg-6 description">
 					<h3 class="text-center">Choose the <span class="blue">Right</span> Video for You</h3>
 					<div class="sub-title">We have different kinds of videos to meet each company's needs</div>
 					<p>If you need to show people around your site we recommend a Custom Video Presentation. Do you want a spokesperson to greet visitors to your site? We can do that. We can do Whiteboard, Animation or Explainer videos to help you explain your product or service.</p>
+				</div>
+				<div class="col-lg-6">
+					<div class="player img-box type-1">
+						<?php $video="Puzzel Logo Reveal";$alt="Puzzel Logo Reveal Example"; include("../includes/showInline.php"); ?>
+					</div>
 				</div>
 			</div>
 		</div>
