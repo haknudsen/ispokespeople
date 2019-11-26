@@ -60,7 +60,7 @@ background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), 
 #__vtigerWebForm textarea{width: 100%}
 /*Social Icons*/
 .social-icons {height: 4rem;align-items: center;display: flex;justify-content: center;}
-.social-icons i{font-size: 3rem;margin: .5rem;color: #17a2b8}
+.social-icons i, .social-icons svg{font-size: 3rem;margin: .5rem;color: #17a2b8}
 .ecwid-productBrowser-details-optionPanel{margin-bottom: 12px!important}
 .ecwid-title,.ecwid-SingleProduct-options{margin: 8px!important;padding: 0!important}
 #ecwid-productoption-152889173-Script{height: 320px!important}
