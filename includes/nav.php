@@ -14,6 +14,8 @@
 			</li>
 			<li class="nav-item"><a href="../about/" title="About iSpokespeople" class="nav-link">About</a>
 			</li>
+			<li class="nav-item"><a href="../order/" title="Order a iSpokesperson" class="nav-link">Order</a>
+			</li>
 			<li class="nav-item nav-link cursor" data-toggle="modal" data-target="#contactModal"><i class="fal fa-file-alt"></i> Contact
 			</li>
 		</ul>
