@@ -1,7 +1,7 @@
 <?php
 require( "connect-demo.php" );
 $table = $style . "_content";
-if($style === "spokesperson"){
+if($style === "spokesperson"  or $style === "ispokespeople"){
     $style = "spokespeople";
 }
 $sql = "SELECT * FROM " . $table . " ORDER BY RAND() LIMIT 3";

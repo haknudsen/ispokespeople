@@ -66,3 +66,7 @@ background-image: -khtml-gradient(linear, left top, left bottom, from(#f4fbff), 
 #ecwid-productoption-152889173-Script{height: 320px!important}
 .order-steps{font-size: 32px;font-weight: 600}
 .order-steps h2{font-size: 40px;font-weight: 600}
+.card-columns-no-gap{column-gap:0}
+.card-columns-no-gap .card{margin-bottom: 0;border-radius: 0}
+.card-columns-no-gap .card-header:first-child{border-radius: 0}
+
