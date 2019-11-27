@@ -9,6 +9,7 @@
 <meta name="description" content="Video Player for our content">
 <!--CSS-->
 <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/custom.css" rel="stylesheet" type="text/css">
 <script src="https://kit.fontawesome.com/0a8693018d.js" crossorigin="anonymous"></script>
 </head>
 
