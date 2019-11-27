@@ -1,6 +1,9 @@
 <?php
 require( "connect-demo.php" );
 $table = $style . "_content";
+if($style === "spokesperson"){
+    $style = "spokespeople";
+}
 $sql = "SELECT * FROM " . $table . " ORDER BY RAND() LIMIT 3";
 $contentResult = $conn->query( $sql );
 if ( $contentResult->connect_error ) {
