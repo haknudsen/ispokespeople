@@ -32,6 +32,8 @@ function setProgressBar() {
     if ($("#controls").outerWidth() < 500) {
         volumeBar.css("display", "none");
         volumeBar.width(0);
+        time.css("display","none");
+        time.css("width",0);
     } else {
         var newWidth = parseInt($("#controls").outerWidth() / 8);
         volumeBar.width(newWidth);
@@ -146,7 +148,6 @@ function createTalkingHead(title, autostart, controls, actor) {
             player.load();
             player.muted = false;
             player.play();
-            btns.bigPlayBtn.hide("slow");
             showPause();
             btnFunctions();
         });
@@ -157,7 +158,6 @@ function createTalkingHead(title, autostart, controls, actor) {
         if (promise !== undefined) {
             promise.then(_ => {
                 showPause();
-                btns.bigPlayBtn.hide("slow");
             }).catch(error => {
                 playMuted();
             });
@@ -166,14 +166,14 @@ function createTalkingHead(title, autostart, controls, actor) {
     }
 
     function showPause() {
-        btns.playToggle.addClass("btn-pause");
-        btns.playToggle.removeClass("btn-play");
         btns.bigPlayBtn.hide("slow");
+        btns.playToggle.removeClass("btn-play2");
+        btns.playToggle.addClass("btn-pause");
     }
 
     function showPlay() {
         btns.playToggle.removeClass("btn-pause");
-        btns.playToggle.addClass("btn-play");
+        btns.playToggle.addClass("btn-play2");
         btns.bigPlayBtn.show("slow");
     }
     //create button functions

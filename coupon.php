@@ -25,7 +25,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 	<div class="row">
 		<div class="col-md-3 offset-1 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=mouse&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
 			<h3 class="spokesperson-name">
 				<?=$male?>
@@ -48,7 +48,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 		</div>
 		<div class="col-md-3 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=mouse&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
 			<h3 class="spokesperson-name">
 				<?=$female?>
