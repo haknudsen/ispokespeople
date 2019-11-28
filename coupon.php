@@ -19,9 +19,16 @@ $newdateBase = $xml->newdate;
 $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 ?>
 <?php include("includes/nav.php"); ?>
-<section class="page-header">
-	<h1 class="text-center">Buy One Get One Coupon</h1>
-    <h2 class="text-center">Featured Actor Videos must choose either <?=$male?> or <?=$female?>.</h2>
+<section class="page-header text-center">
+	<div class="header-group">
+		<h1>Buy One Get One Coupon</h1>
+		<h2>Choose Either
+			<?=$male?>
+			or
+			<?=$female?>
+		</h2>
+		<h3>Videos must be shot at same time, for same domain, using only ONE Featured Actor.<br>Fill out the form below to redeem your coupon!</h3>
+	</div>
 	<div class="row">
 		<div class="col-md-3 offset-1 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
@@ -32,7 +39,6 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 			</h3>
 		</div>
 		<div class="col-md-4 text-center">
-			<p class="tiny">Videos must be shot at same time, for same domain, using only ONE Featured Actor. Fill out the form below to redeem your coupon!</p>
 			<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-160891993" itemscope itemtype="http://schema.org/Product" data-single-product-id="160891993">
 				<div itemprop="image"></div>
 				<div class="ecwid-title" itemprop="name" content="Buy One Get One"></div>
