@@ -61,7 +61,7 @@ footer a{color:#EFEFEF}
 .social-icons i,.social-icons svg{font-size:3rem;margin:.5rem;color:#17a2b8}
 .ecwid-productBrowser-details-optionPanel{margin-bottom:12px!important}
 .ecwid-title,.ecwid-SingleProduct-options{margin:8px!important;padding:0!important}
-#ecwid-productoption-152889173-Script{height:320px!important}
+#ecwid-productoption-152889173-Script, #ecwid-productoption-160891993-Script{height:320px!important}
 .order-steps{font-size:32px;font-weight:600}
 .order-steps h2{font-size:40px;font-weight:600}
 .card-columns-no-gap{column-gap:0}
@@ -78,7 +78,7 @@ footer a{color:#EFEFEF}
 #controls .progress-bar{background-color:#17a2b8}
 #controls .progress-bar-striped{background-image:linear-gradient(45deg,rgba(255,255,255,0.8) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.8) 50%,rgba(255,255,255,0.8) 75%,transparent 75%,transparent)}
 @media (max-width: 500px) {
-#controls .progress-bar{height:2rem}
+#controls .progress-bar{height:100%}
 }
 #controls #btn-mute{width:3rem}
 #controls #volume-bar{margin:auto 0 auto 8px;width:120px}

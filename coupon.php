@@ -7,9 +7,6 @@
 <title>iSpokespeople Coupon</title>
 <meta name="description" content="iSpokespeople Coupon">
 <meta name="keywords" content="iSpokespeople Coupon, Spokespeople, Video Spokesperson, Virtual Spokesperson, Website Spokesperson, Web Spokesperson, Spokesmodel, Walk On Actor,Virtual Actor, Person on Website, Online Spokesperson.">
-<?php include("includes/head.php"); ?>
-</head>
-<body>
 <?php
 $url = 'https://www.websitetalkingheads.com/featuredactor/featuredactor.xml';
 $xml = simplexml_load_file( $url );
@@ -18,6 +15,9 @@ $female = $xml->female;
 $newdateBase = $xml->newdate;
 $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 ?>
+<?php include("includes/head.php"); ?>
+</head>
+<body>
 <?php include("includes/nav.php"); ?>
 <section class="page-header text-center">
 	<div class="header-group">
@@ -34,7 +34,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 			<div class="embed-responsive embed-responsive-16by9">
 				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
-			<h3 class="spokesperson-name">
+			<h3 class="text-info">
 				<?=$male?>
 			</h3>
 		</div>
@@ -56,7 +56,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 			<div class="embed-responsive embed-responsive-16by9">
 				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
-			<h3 class="spokesperson-name">
+			<h3 class="text-info">
 				<?=$female?>
 			</h3>
 		</div>

@@ -1,3 +1,7 @@
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P322G9X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<a href="http://www.ispokespeople.com"><img src="/img/head.png" alt="iSpokespeople Logo" class="img-fluid" style="max-height: 98px" title="iSpokespeople Home"/></a>
 	<a href="http://www.ispokespeople.com/" class="navbar-brand"><em>i</em>Spokespeople</a>
