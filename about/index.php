@@ -14,8 +14,8 @@
 <?php include("../includes/nav.php"); ?>
 <section class="alert">
 	<h1 class="text-center">About <em>i</em>Spokespeople<sup>&reg;</sup> <strong>Video</strong></h1>
-	<div class="card-columns card-columns-no-gap">
-		<?php include("../includes/ispokespeople-content.php"); ?>
+	<div class="card-group">
+		<?php $style = "presentation";include("../includes/ispokespeople-content.php"); ?>
 	</div>
 </section>
 <section class="alert alert-info my-5 clearfix">
@@ -30,5 +30,6 @@
 	</div>
 </section>
 <?php include("../includes/footer.php"); ?>
+<?php include("../includes/modal.php"); ?>
 </body>
 </html>
