@@ -62,7 +62,9 @@ footer a{color:#EFEFEF}
 .social-icons i,.social-icons svg{font-size:3rem;margin:.5rem;color:#17a2b8}
 .ecwid-productBrowser-details-optionPanel{margin-bottom:12px!important}
 .ecwid-title,.ecwid-SingleProduct-options{margin:8px!important;padding:0!important}
-#ecwid-productoption-152889173-Script, #ecwid-productoption-160891993-Script{height:320px!important}
+#ecwid-productoption-152889173-Script, #ecwid-productoption-160891993-Script{height:240px!important}
+.ecwid-SingleProduct-v2,.ecwid-SingleProduct-options{max-width: 100%!important}
+.ecwid-SingleProduct-picture{margin-bottom: .5rem!important}
 .order-steps{font-size:32px;font-weight:600}
 .order-steps h2{font-size:40px;font-weight:600}
 .card-columns-no-gap{column-gap:0}
@@ -71,7 +73,7 @@ footer a{color:#EFEFEF}
 #player-holder:hover #controls{opacity:1}
 #controls{width:100%;margin-left:auto;margin-right:auto;text-align:center;display:flex;flex-wrap:wrap;position:absolute;bottom:0;top:auto;font-size:2rem;background:rgba(23,162,184,0.8);border:rgba(23,162,184,0.8) thin solid;border-radius:2px;color:#E5F0FF;transition:opacity .5s;opacity:0}
 @media (min-width: 768px) {
-#controls{font-size:1.8rem}
+    #controls{font-size:1.8rem}
 }
 #controls .player-btn{width:2rem;margin-left:4px}
 #controls #progress-bar{margin:auto 6px;border:thin solid #fff;height:2rem}

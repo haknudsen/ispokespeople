@@ -30,15 +30,15 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 		<h3>Videos must be shot at same time, for same domain, using only ONE Featured Actor.<br>Fill out the form below to redeem your coupon!</h3>
 	</div>
 	<div class="row">
-		<div class="col-md-3 offset-1 text-center">
+		<div class="col-lg-4 offset-xl-1 col-xl-3 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
 			<h3 class="text-info">
 				<?=$male?>
 			</h3>
 		</div>
-		<div class="col-md-4 text-center">
+		<div class="col-lg-4 text-center">
 			<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-160891993" itemscope itemtype="http://schema.org/Product" data-single-product-id="160891993">
 				<div itemprop="image"></div>
 				<div class="ecwid-title" itemprop="name" content="Buy One Get One"></div>
@@ -52,9 +52,9 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 			</div>
 			<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?18447751&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script> 
 		</div>
-		<div class="col-md-3 text-center">
+		<div class="col-lg-4 col-xl-3 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true"></iframe>
 			</div>
 			<h3 class="text-info">
 				<?=$female?>

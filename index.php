@@ -111,14 +111,7 @@
 <?php include("includes/footer.php"); ?>
 
 <!-- content container -->
-<section class="coupon">
-  <div id="embed-scratchcard-9Bx1NQFdAj">
-    <link rel="stylesheet" href="//vidscratch.com/app/public/scratchcard.css">
-    <script type="text/javascript" src="//vidscratch.com/app/public/jquery-3.4.1.min.js"></script><script type="text/javascript" id="cardjs-9Bx1NQFdAj" src="//vidscratch.com/app/public/scratchcard.js"></script>
-    <iframe id="scratchcard-frame-9Bx1NQFdAj" name="scratchcard-frame-9Bx1NQFdAj" class="exit-popup scratchcardframe" scrolling="no" src="//vidscratch.com/app/api/embed-game/OTYy/MTMxMTk=/exit-popup" frameborder="0" allowfullscreen="" style="height: 380px;width:300px;display:none;"></iframe>
-    <div class="exit-popup-backcover" id="scratcard_backcover"></div>
-  </div>
-</section>
+<?php include("includes/coupon.php"); ?>
 <script src="js/blog-marketing.js"></script>
 </body>
 </html>
