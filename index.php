@@ -17,7 +17,7 @@
     <div class="card card-outline-info">
       <div class="card-img-top">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=Virtual Spokespeople&autostart=mute&controls=true"></iframe>
+          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=Virtual Spokespeople&autostart=mute&controls=true&color=17a2b8"></iframe>
         </div>
       </div>
       <div class="card-body">
@@ -32,7 +32,7 @@
     <div class="card card-outline-info">
       <div class="card-img-top">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=Video%20Presentation%20Show%20Reel&autostart=mute&controls=true"></iframe>
+          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=Video%20Presentation%20Show%20Reel&autostart=mute&controls=true&color=17a2b8"></iframe>
         </div>
       </div>
       <div class="card-body">

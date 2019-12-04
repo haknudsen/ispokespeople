@@ -32,7 +32,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 	<div class="row">
 		<div class="col-lg-4 offset-xl-1 col-xl-3 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$male?>&autostart=mute&controls=true&actor=true&color=17a2b8"></iframe>
 			</div>
 			<h3 class="text-info">
 				<?=$male?>
@@ -54,7 +54,7 @@ $newdate = "THIS OFFER EXPIRES Friday, " . $newdateBase;
 		</div>
 		<div class="col-lg-4 col-xl-3 text-center">
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true"></iframe>
+				<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.websitetalkingheads.com/ivideo/talking-heads-player.php?video=<?=$female?>&autostart=mute&controls=true&actor=true&color=17a2b8"></iframe>
 			</div>
 			<h3 class="text-info">
 				<?=$female?>
